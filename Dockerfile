@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER vignesh
+MAINTAINER vignesh123
 
 RUN apt-get update && apt-get install curl -y
 RUN apt-get install -y nginx
